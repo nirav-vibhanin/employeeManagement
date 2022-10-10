@@ -1,0 +1,9 @@
+// Employee types
+export const EMPLOYEE_LIST = "EMPLOYEE_LIST"
+export const ADD_EMPLOYEE = "ADD_EMPLOYEE"
+export const UPDATE_EMPLOYEE = "UPDATE_EMPLOYEE"
+export const DELETE_EMPLOYEE = "DELETE_EMPLOYEE"
+// Department types
+export const DEPARTMENT_LIST = "DEPARTMENT_LIST"
+export const DEPARTMENT_ADD = "DEPARTMENT_ADD"
+export const DELETE_DEPARTMENT = "DELETE_DEPARTMENT"
